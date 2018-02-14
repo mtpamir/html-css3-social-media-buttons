@@ -10,7 +10,7 @@
 .social-bordered{
   height: 50px;
   width: 50px;
-  line-height:50px;
+  line-height:50px!important;
   border: 1px solid;
   text-align: center;
 }
